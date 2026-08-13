@@ -1,11 +1,9 @@
-# === C++ компіляція та збірка ===
 *.exe
 *.out
 *.app
 *.o
 *.obj
 
-# === Налаштування середовища розробки (IDE) ===
 .vscode/
 .idea/
 *.suo
@@ -15,7 +13,6 @@
 *.vcxproj
 *.filters
 
-# === Системні файли, які не потрібні в коді ===
 Thumbs.db
 Desktop.ini
 .DS_Store
