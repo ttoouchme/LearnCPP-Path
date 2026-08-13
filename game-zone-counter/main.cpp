@@ -24,6 +24,5 @@ int main()
 	int clearcash { dirtcash - elect};
 	std::cout << "Net profit: " << clearcash << " UAH " "\n";
 
-
 	return 0;
 }
